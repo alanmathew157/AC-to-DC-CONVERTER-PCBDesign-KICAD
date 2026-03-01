@@ -1,3 +1,4 @@
+[![Made with KiCad](https://img.shields.io/badge/Made%20with-KiCad-blue?logo=kicad&logoColor=white)](https://www.kicad.org/)
 # AC to DC Converter PCB Design using KICAD -ALTIMUM
 ## PCB TOP VIEW
 ![PCB TOP VIEW](FrontSide.png)
